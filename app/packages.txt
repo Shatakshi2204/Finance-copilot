@@ -1,0 +1,4 @@
+# System packages for HuggingFace Spaces
+# Required for llama-cpp-python compilation
+cmake
+build-essential
